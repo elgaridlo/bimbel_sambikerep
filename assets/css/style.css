@@ -10206,7 +10206,7 @@ textarea.form-control.is-invalid {
 
 .text-body {
   --bs-text-opacity: 1;
-  color: #60697b !important;
+  color: #000000 !important;
 }
 
 .text-muted {
@@ -24018,7 +24018,7 @@ a.text-reset:hover,
 }
 
 .link-body {
-  color: #60697b;
+  color: #000000;
 }
 
 .link-inverse {
