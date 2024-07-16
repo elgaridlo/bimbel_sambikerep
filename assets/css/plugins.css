@@ -7664,6 +7664,22 @@ pre[class*="language-"] {
   color: green;
 }
 
+.whatsapp-float {
+  position: fixed;
+  bottom: 20%;
+  right: 1%;
+  color: #FFF;
+  text-align: center;
+  font-size: 30px;
+  z-index: 1000;
+}
+
+.whatsapp-float img {
+  margin-top: 15px;
+  width: 60px;
+  height: 60px;
+}
+
 /*!
  * scrollCue.js v2.0.0
  * https://github.com/prjct-samwest/scrollCue
